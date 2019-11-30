@@ -57,7 +57,6 @@ export const TETROMINOS = {
     color: '227, 78, 78',
   },
 }
-console.log(TETROMINOS.color);
 
 export const randomTetromino = () => {
   const tetrominos = 'IJLOSTZ';
